@@ -1,5 +1,5 @@
 # Single-Rotor-Encoder-Decoder
-Personal Project in Java to familiarize with app development.
+Personal Project in Java to familiarize with app development for Android.
 
 Encoder/Decrypter simulates single rotor function. (Also supports punctuation)
 
